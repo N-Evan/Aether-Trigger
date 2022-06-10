@@ -44,6 +44,9 @@ TagManager:
   - name: Background
     uniqueID: 802606925
     locked: 0
+  - name: Decals
+    uniqueID: 2319735769
+    locked: 0
   - name: Obstacles
     uniqueID: 553270691
     locked: 0
